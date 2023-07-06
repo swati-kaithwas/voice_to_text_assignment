@@ -14,6 +14,7 @@ function VoiceToText() {
   };
 
   return (
+    <div clasName="main-container">
     <div className="voice-to-text-container">
       <h2>Voice to Text</h2>
       <div className="transcript-area">
@@ -24,6 +25,7 @@ function VoiceToText() {
         <button className="action-button stop-button" onClick={handleStopListening}>Stop</button>
         <button className="action-button reset-button" onClick={resetTranscript}>Reset</button>
       </div>
+    </div>
     </div>
   );
 }
