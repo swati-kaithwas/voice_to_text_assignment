@@ -10,11 +10,11 @@ It allows users to convert spoken words into text in real-time.
 
 ---
 Deploy Link
-(https://paste your link)
+(https://voice-to-text-assignment.vercel.app/)
 
 ## Getting Started with Installation
 First Git clone
-git clone https://github.com/your-username/voice-to-text-app.git
+git clone https://github.com/swati-kaithwas/voice_to_text_assignment
 
 Second, run the development server:
 
